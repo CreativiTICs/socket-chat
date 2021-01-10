@@ -1,0 +1,20 @@
+.chat-list {
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch;
+    height: 600px !important;
+}
+
+textarea {
+    width: 100%;
+}
+
+.btn-exit{
+    background-color: #da1c5c;
+    border-radius: 10px;
+    border: none;
+    float: right;
+}
+
+.btn-exit a {
+     color: white;
+}
